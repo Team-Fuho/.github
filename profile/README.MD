@@ -4,7 +4,10 @@
 
 <div align=center>
     <a href=https://teamfuho.net>
-        <img src=https://raw.githubusercontent.com/Team-Fuho/.github/main/profile/assets/light-brand.svg width=50%>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset=https://raw.githubusercontent.com/Team-Fuho/.github/main/profile/assets/light-brand.svg width=50%>
+        <img src=https://raw.githubusercontent.com/Team-Fuho/.github/main/profile/assets/dark-brand.svg>
+    </picture>
     </a>
     <h2>Sáng tạo không ngừng nghỉ</h2>
 </div>
