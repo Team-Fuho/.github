@@ -6,7 +6,7 @@
     <a href=https://teamfuho.net>
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset=https://raw.githubusercontent.com/Team-Fuho/.github/main/profile/assets/light-brand.svg width=50%>
-        <img src=https://raw.githubusercontent.com/Team-Fuho/.github/main/profile/assets/dark-brand.svg>
+        <img src=https://raw.githubusercontent.com/Team-Fuho/.github/main/profile/assets/dark-brand.svg width=50%>
     </picture>
     </a>
     <h2>Sáng tạo không ngừng nghỉ</h2>
