@@ -2,12 +2,12 @@
 
 #
 
-<center>
+<div align=center>
     <a href=https://teamfuho.net>
         <img src=https://raw.githubusercontent.com/Team-Fuho/.github/main/profile/assets/light-brand.svg width=50%>
     </a>
     <h2>Sáng tạo không ngừng nghỉ</h2>
-</center>
+</div>
 
 #
 
@@ -21,9 +21,9 @@
 
 ## Kết nối với chúng tôi
 
-<center>
+<div align=center>
     <pre><a href=https://www.facebook.com/teamfuho><img src=https://raw.githubusercontent.com/Team-Fuho/.github/main/profile/assets/brand-fb.svg width=32></a> <a href=https://www.youtube.com/@TeamFuhoVietnam><img src=https://raw.githubusercontent.com/Team-Fuho/.github/main/profile/assets/brand-yt.svg width=32></a> <a href=https://discord.gg/aKUU4gGyDq><img src=https://raw.githubusercontent.com/Team-Fuho/.github/main/profile/assets/brand-ds.svg width=32></a></pre>
-</center>
+</div>
 
 #
 
